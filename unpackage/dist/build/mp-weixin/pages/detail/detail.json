@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "商品详情",
+  "enablePullDownRefresh": false,
+  "navigationBarBackgroundColor": "#F1F1F1",
+  "usingComponents": {
+    "mydetailswiper": "/component/detail/detailswiper",
+    "mydetailshop": "/component/detail/detailshop",
+    "myindexswiper": "/component/indexswiper",
+    "mydetailserviceitem": "/component/detail/detailservceitem",
+    "parse": "/component/gaoyia-parse/parse"
+  }
+}

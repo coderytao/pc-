@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "添加地址管理",
+  "navigationBarBackgroundColor": "#FFFFFF",
+  "usingComponents": {
+    "picker-address": "/components/wangding-pickerAddress/wangding-pickerAddress"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "component": true,
+  "usingComponents": {
+    "weixin-parse-template": "/component/gaoyia-parse/components/wxParseTemplate9",
+    "weixin-parse-img": "/component/gaoyia-parse/components/wxParseImg",
+    "weixin-parse-video": "/component/gaoyia-parse/components/wxParseVideo",
+    "weixin-parse-audio": "/component/gaoyia-parse/components/wxParseAudio",
+    "weixin-parse-table": "/component/gaoyia-parse/components/wxParseTable"
+  }
+}

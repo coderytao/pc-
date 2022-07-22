@@ -1,0 +1,13 @@
+{
+  "navigationBarTitleText": "英特网络",
+  "navigationBarBackgroundColor": "#F8F8F8",
+  "usingComponents": {
+    "my-header": "/component/header",
+    "myswiper": "/component/indexswiper",
+    "mypage": "/component/page",
+    "myimage": "/component/image",
+    "myline": "/component/line",
+    "myprice": "/component/price",
+    "myindextable": "/component/indextable"
+  }
+}
